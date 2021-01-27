@@ -21,7 +21,7 @@ Features:
 
 Technical Architecture:
 
-Our game primarily consists of four components:
+Our game primarily consists of six components:
 
 •	Main screen
 •	Instructions
